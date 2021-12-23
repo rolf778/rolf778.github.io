@@ -1,0 +1,77 @@
+body {
+  background-color: #f2f1ec;
+  margin:0;
+  padding:0;
+}
+.big-bob{
+  background-color:#f4f0eb;
+  position:relative;
+  left:5%;
+  width:90%;
+  height:900px;
+}
+.left-container {
+  background-color:#154c79;
+  position:absolute;
+  left:2%;
+  width:35%;
+  height:100%;
+  display:inline-block;
+}
+.right-container{
+  background-color: #F9F3DD;
+  position: absolute;
+  display:inline-block;
+  right:0.0001%;
+  width:62%;
+}
+.name{
+  width:100%;
+
+}
+.personalinfo{
+  position:relative;
+}
+.info-pic{
+  width:40px;
+}
+.profile-pic{
+  margin-top:10%;
+  margin-left:20%;
+  position: static;
+  width:50%;
+}
+h3{
+  color:white;
+  position:static;
+  font-size:12pt;
+  word-wrap:break-word;
+  text-align:left;
+  margin-left:70px;
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  color:white;
+  position:static;
+  margin-left:20%;
+  font-family: 'Montserrat:wght@300', sans-serif;
+  font-size:17.6pt;
+  word-wrap: break-word;
+}
+h1{
+  position:relative;
+  font-family: 'Montserrat', sans-serif;
+  font-size:36pt;
+  padding-left: 5%;
+  word-wrap: break-word;
+}
+
+p{
+  font-family: 'Montserrat:wght@300', sans-serif;
+  font-size:12pt;
+}
+h4{
+  font-family:'Montserrat:wght@300',sans-serif;
+  text-align:justify;
+  font-size:13pt;
+}
